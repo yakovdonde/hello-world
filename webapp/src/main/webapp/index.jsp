@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
 <body>
 
-<h2>Ordered List with Letters</h2>
-
-<ol type="A">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
 
 </body>
-</html>
-
