@@ -1,23 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Welcome to nginx!</title>
-<style>
-html { color-scheme: light dark; }
-body { width: 35em; margin: 0 auto;
-font-family: Tahoma, Verdana, Arial, sans-serif; }
-</style>
-</head>
-<body>
-<h1>Welcome to nginx!</h1>
-<p>If you see this page, the nginx web server is successfully installed and
-working. Further configuration is required.</p>
+<HTML>
 
-<p>For online documentation and support please refer to
-<a href="http://nginx.org/">nginx.org</a>.<br/>
-Commercial support is available at
-<a href="http://nginx.com/">nginx.com</a>.</p>
+<HEAD>
 
-<p><em>Thank you for using nginx.</em></p>
-</body>
-</html>
+<TITLE>Your Title Here</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<a href="http://somegreatsite.com">Link Name</a>
+
+is a link to another nifty site
+
+<H1>This is a Header</H1>
+
+<H2>This is a Medium Header</H2>
+
+Send me mail at <a href="mailto:support@yourcompany.com">
+
+support@yourcompany.com</a>.
+
+<P> This is a new paragraph!
+
+<P> <B>This is a new paragraph!</B>
+
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
+
+</HTML>
